@@ -4,7 +4,7 @@ export default function RootLayout() {
   return <Stack>
   <Stack.Screen 
   name="index" 
-  options={{ title: "Aplicativo investimento" }}
+  options={{ title: "Calcule seu Investimento" }}
   />
   </Stack> 
 }
